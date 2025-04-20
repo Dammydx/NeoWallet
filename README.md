@@ -1,5 +1,4 @@
 
----
 
 ```markdown
 # 💸 NeoWallet — Modern Personal Finance App
