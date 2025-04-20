@@ -118,6 +118,14 @@ index.html
 vite.config.ts
 tailwind.config.ts
 ```
+---
+
+## 🖼️ Mockup Preview
+
+Here’s a preview of NeoWallet in action:
+
+![NeoWallet Mockup](./mockup.png)
+
 
 ---
 
