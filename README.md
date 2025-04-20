@@ -7,7 +7,9 @@ Here's a professional and stylish `README.md` for your **NeoWallet** project, in
 
 **NeoWallet** is a futuristic, secure, and real-time wallet management platform designed for Nigerian users. Built with **React**, **Tailwind CSS**, and **Supabase**, it offers seamless wallet transfers, budget tracking, admin control, and rich animations — all wrapped in a sleek glassmorphic UI.
 
-🔗 **Live Demo:** [https://dammydx.github.io/NeoWallet/](https://dammydx.github.io/NeoWallet/)
+🔗 **Live Demo:** [https://dammydx.github.io/NeoWallet/]
+
+      (https://dammydx.github.io/NeoWallet/)
 
 ---
 
