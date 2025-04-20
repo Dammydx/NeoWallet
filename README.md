@@ -1,4 +1,3 @@
-Here's a professional and stylish `README.md` for your **NeoWallet** project, including the correct GitHub Pages link:
 
 ---
 
@@ -140,10 +139,4 @@ Project developed by **Daramola Irewole** — proudly sponsored by **DammyTechHu
 
 ## 🙌 Credits
 
-Icons from **Heroicons**, charts from **Recharts**, and date management via **Luxon**.
-
-```
-
----
-
-Let me know if you'd like me to also write `SETUP.md` and `FUTURE_UPDATES.md`!
+Icons from **Heroicons**, charts from **Recharts**, and date management via **Luxon**.
