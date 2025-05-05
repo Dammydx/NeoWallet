@@ -1,5 +1,5 @@
 
-
+### data base error 😮‍💨😮‍💨
 ```markdown
 # 💸 NeoWallet — Modern Personal Finance App
 
